@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pth
+*.pt
+data/
+.ipynb_checkpoints/
+
+# Virtual environment
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyTorch checkpoints / model weights
+*.pt
+*.pth
+models/
+checkpoints/
+
+# Data
+data/
+*.nii
+*.nii.gz
+*.mha
+*.mhd
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Coverage
+htmlcov/
+.coverage
+
+# Others
+*.cache
